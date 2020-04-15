@@ -1,5 +1,5 @@
 # CV
-My CV should be around here somewhere. Some additional info below:
+My CV should be [around here somewhere](https://github.com/downinja/cv/blob/master/JohnDowning_cv.pdf).
 
 # Coursera certificates
 * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/account/accomplishments/records/J38HXVS625JP)
